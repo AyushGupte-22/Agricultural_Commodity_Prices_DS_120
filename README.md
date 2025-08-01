@@ -106,7 +106,6 @@ Recommended next steps include feature engineering (e.g., encoding categorical v
 
 - **Dataset**: [Variety-wise Daily Market Prices Data](https://www.data.gov.in/resource/variety-wise-daily-market-prices-data-commodity)
 - **GitHub Repository**: [AyushGupte-22/Agricultural_Commodity_Prices_DS_120](https://github.com/AyushGupte-22/Agricultural_Commodity_Prices_DS_120)
-- **Report**: `22070521120_CA1_EDA.docx` (Ayush Gupte, TE7253, 2025)
 
 ## License
 
